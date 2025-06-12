@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/Ralfnl12/rconraads.me/issues"
   },
-  "homepage": "https://github.com/Ralfnl12/rconraads.me#readme"
+  "homepage": "https://github.com/Ralfnl12/rconraads.me#readme",
+  "dependencies": {
+    "next": "^15.3.3",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
 }
